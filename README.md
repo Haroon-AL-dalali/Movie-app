@@ -1,6 +1,20 @@
 # movieapp
 
-A new Flutter project.
+A movie app by flutter.
+
+# Packages
+
+    google_fonts: ^5.1.0
+    
+    http: ^1.1.0
+    
+    carousel_slider: ^4.2.1
+    
+    persistent_bottom_nav_bar: ^5.0.2
+    
+    google_nav_bar: ^5.0.6
+
+
 
 ## Getting Started
 
